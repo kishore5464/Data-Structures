@@ -3,8 +3,9 @@ package com.kishore.bigO;
 public class Big_O_Notation {
 
 	public static void main(String[] args) {
-		//String[] stringArray1 = { "Kishore" };
-		//String[] stringArray2 = { "Kishore", "Roshini", "Arumugam", "Shantha", "Akshitha", "Sudha", "YuvaSri" };
+		// String[] stringArray1 = { "Kishore" };
+		// String[] stringArray2 = { "Kishore", "Roshini", "Arumugam", "Shantha",
+		// "Akshitha", "Sudha", "YuvaSri" };
 		String[] stringArray3 = new String[1000];
 		for (int i = 0; i < stringArray3.length; i++) {
 			stringArray3[i] = "Kishore";
@@ -54,10 +55,10 @@ public class Big_O_Notation {
 	 * It wont increase like O(n) when No.of Inputs increase then No.of Operation to
 	 * increase, it follow Constant Time taken
 	 * 
-	 * --> IMMPORTANT <--
+	 * --> IMPORTANT <--
 	 * 
-	 * If we are doing n No.of operation like O(2), O(10), O(100000) also but it is
-	 * consider as O(1) that is it consume Constant Time
+	 * If we are doing n No.of operation like O(2), O(10), O(100000) also, It will
+	 * consider as O(1) because it consume as Constant Time
 	 * 
 	 **/
 	// O(1) -> Constant Time
