@@ -1,10 +1,10 @@
 # Data-Structures
 Data Structures + Algorithms using Java
 
-  Here i am plan to start Datastructures and Algorithms from scratch. For that I started learning each concepts with N.no.of resources like YouTube, Udemy, PluralSight and Book (Cracking the Coding Interview : 189 Programming Questions and Solutions by Gayle Laakmann McDowell).
+  Here I plan to start Datastructures and Algorithms from scratch. For that I started learning each concepts with N.no.of resources like YouTube, Udemy, PluralSight and Book (Cracking the Coding Interview : 189 Programming Questions and Solutions by Gayle Laakmann McDowell).
     
-Agendas which I am learning and commiting in GitHub:
-----------------------------------------------------
+Agenda which I am learning and commiting in GitHub:
+---------------------------------------------------
 
 1. Big O (Time Complexity),
     a. Big O(1)       -> (Constant Time)
