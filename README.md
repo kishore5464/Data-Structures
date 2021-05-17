@@ -18,8 +18,6 @@ Agenda which I am learning and commiting in GitHub:
     
     e. Big O(N^2)     -> (Quadratic Time)
     
-    f. Big O(N^3)     -> (Cubic Time)
+    f. Big O(2^N)     -> (Exponential Time)
     
-    g. Big O(2^N)     -> (Exponential Time)
-    
-    h. Big O(N!)      -> (Factorial Time)
+    g. Big O(N!)      -> (Factorial Time)
