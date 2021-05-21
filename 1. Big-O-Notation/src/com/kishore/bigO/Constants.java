@@ -8,4 +8,7 @@ public class Constants {
 	public static String[] stringArray1 = { "Kishore", "Roshini", "Arumugam", "Shantha", "Akshitha", "Sudha",
 			"YuvaSri" };
 
+	public static char[] charArray1 = { 'K', 'I', 'S', 'H', 'O', 'R', 'E' };
+	public static char[] charArray2 = { 'A', 'B', 'C' };
+
 }
